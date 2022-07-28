@@ -58,7 +58,7 @@ Feel free to make a PR or report an issue 😃.
 
 Oh, one more thing, please do not forget to put a description when you make your PR 🙂.
 
-## Acknoledgment
+## Acknowledgement
 - [M.B.C.M](https://itdev.sn)
 [![My Twitter Link](https://img.shields.io/twitter/follow/the_it_dev?style=social)](https://twitter.com/the_it_dev)
 
