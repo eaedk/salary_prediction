@@ -44,39 +44,13 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
 - Install the necessary dependencies with the command :
         
-      python -m pip install --upgrade pip; pip install -r requirements.txt
+      python -m pip install --upgrade pip; python -m pip install -r requirements.txt
 
-<!-- - Run the demo app :
-        
-  Gradio:
-
-      python gradio_project/demo_app.py
-
-  - Go to your browser at the following address :
-        
-      http://127.0.0.1:7860/
-
-
-  Streamlit: 
-
-      streamlit run streamlit_project/demo_app.py
-
-  - Go to your browser at the following address :
-        
-      http://localhost:8501 -->
-
-## Structure
-### File: app.py
-
-### Folder: ml
-
+- Play with the notebook in the code folder.
 
 ## Resources
-Here are some ressources you would read to have a good understanding of Gradio and Streamlit :
-- [Get started with Streamlit](https://docs.streamlit.io/library/get-started/create-an-app)
-
-- [Get started with Gradio](https://gradio.app/getting_started/)
-
+Here are some ressources you would read to have a good understanding:
+- [Get started with Scikit-Learn](https://scikit-learn.org/stable/tutorial/index.html)
 
 ## Contributing
 
